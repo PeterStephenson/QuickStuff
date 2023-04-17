@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s8VO+nH2mafvGoJmJ6DKJ5U9NWKIjaoBkmy49E2kraUm1z7TDB0i9LY45RsPkoHknd6ev3aqGG0Uo8Xn64ME/w==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\QuickStuff\\QuickStuff\\QuickStuff.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.5\\microsoft.netcore.app.host.win-x64.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
